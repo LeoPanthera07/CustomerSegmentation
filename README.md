@@ -28,8 +28,9 @@ streamlit run app.py
 ```
 ├── app.py              # Streamlit dashboard
 ├── Kmeans.pkl         # Trained K-Means model
-├── data/              # Processed datasets
-├── notebooks/         # EDA & model training
+├── Scaler.pkl         # Scaler object 
+├── Dataset/customer_segmentation.csv              # Processed datasets
+├── analysis.ipynb         # EDA & model training
 └── requirements.txt   # Dependencies
 ```
 
