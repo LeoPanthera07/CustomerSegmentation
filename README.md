@@ -18,10 +18,13 @@ Complete Pipeline - EDA → Feature Engineering → Clustering → Deployment
 
 WCSS Analysis - Optimal cluster determination
 
+
 🚀 Quick Start
 bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
 📁 File Structure
 text
 ├── app.py              # Streamlit dashboard
